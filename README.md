@@ -1,6 +1,10 @@
-This Amazon clone was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Firebase](https://firebase.google.com/)
+# 🖥🔍 Amazon Clone
 
-# [Demo website](https://clone-734cb.firebaseapp.com/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Firebase](https://firebase.google.com/)
+
+### [Demo website](https://clone-734cb.firebaseapp.com/)
+
+![alt text](public/amazon-clone.png)
 
 ## Available Scripts
 
